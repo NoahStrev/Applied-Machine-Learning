@@ -1,0 +1,33 @@
+NFL Team,Wins,Losses,Ties,PCT,PointsFor,PointsAgainst,Net Pts
+Baltimore Ravens,13,4,0,0.765,483,280,203
+Dallas Cowboys,12,5,0,0.706,509,315,194
+Detroit Lions,12,5,0,0.706,461,395,66
+San Francisco 49ers,12,5,0,0.706,491,298,193
+Buffalo Bills,11,6,0,0.647,451,311,140
+Cleveland Browns,11,6,0,0.647,396,362,34
+Kansas City Chiefs,11,6,0,0.647,371,294,77
+Miami Dolphins,11,6,0,0.647,496,391,105
+Philadelphia Eagles,11,6,0,0.647,433,428,5
+Houston Texans,10,7,0,0.588,377,353,24
+Los Angeles Rams,10,7,0,0.588,404,377,27
+Pittsburgh Steelers,10,7,0,0.588,304,324,-20
+Cincinnati Bengals,9,8,0,0.529,366,384,-18
+Green Bay Packers,9,8,0,0.529,383,350,33
+Indianapolis Colts,9,8,0,0.529,396,415,-19
+Jacksonville Jaguars,9,8,0,0.529,377,371,6
+New Orleans Saints,9,8,0,0.529,402,327,75
+Seattle Seahawks,9,8,0,0.529,364,402,-38
+Tampa Bay Buccaneers,9,8,0,0.529,348,325,23
+Denver Broncos,8,9,0,0.471,357,413,-56
+Las Vegas Raiders,8,9,0,0.471,332,331,1
+Atlanta Falcons,7,10,0,0.412,321,373,-52
+Chicago Bears,7,10,0,0.412,360,379,-19
+Minnesota Vikings,7,10,0,0.412,344,362,-18
+New York Jets,7,10,0,0.412,268,355,-87
+New York Giants,6,11,0,0.353,266,407,-141
+Tennessee Titans,6,11,0,0.353,305,367,-62
+Los Angeles Chargers,5,12,0,0.294,346,398,-52
+Arizona Cardinals,4,13,0,0.235,330,455,-125
+New England Patriots,4,13,0,0.235,236,366,-130
+Washington Commanders,4,13,0,0.235,329,518,-189
+Carolina Panthers,2,15,0,0.118,236,416,-180
